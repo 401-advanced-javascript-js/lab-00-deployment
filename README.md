@@ -1,0 +1,31 @@
+![CF](http://i.imgur.com/7v5ASc8.png) LAB
+=================================================
+
+## Deployment Workshop
+
+### Author: Jagdeep Singh
+
+### Links and Resources
+* [submission PR](https://github.com/401-advanced-javascript-js/lab-00-deployment/pull/1)
+* [travis](https://travis-ci.com/401-advanced-javascript-js/lab-00-deployment)
+
+### Modules
+#### `modulename.js`
+##### Exported Values and Methods
+
+###### `foo(thing) -> string`
+Usage Notes or examples
+
+###### `bar(array) -> array`
+Usage Notes or examples
+  
+#### Tests
+* How do you run tests?
+  run `npm i` in repo and then run `npm test`
+* What assertions were made?
+  none
+* What assertions need to be / should be made?
+  none
+
+#### UML
+Link to an image of the UML for your application and response to events
