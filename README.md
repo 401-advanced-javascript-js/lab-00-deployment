@@ -6,7 +6,7 @@
 ### Author: Jagdeep Singh
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-js/lab-00-deployment/pull/1)
+* [submission PR](https://github.com/401-advanced-javascript-js/lab-00-deployment/pull/3)
 * [travis](https://travis-ci.com/401-advanced-javascript-js/lab-00-deployment)
 
 ### Modules
