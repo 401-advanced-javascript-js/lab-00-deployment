@@ -13,7 +13,3 @@
 #### Tests
 * How do you run tests?
   run `npm i` in repo and then run `npm test`
-* What assertions were made?
-  none
-* What assertions need to be / should be made?
-  none
